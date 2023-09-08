@@ -1,0 +1,2 @@
+C# es un lenguaje compilado creado por Microsoft. Útil para desarrollo web, móvil, escritorio y
+videojuegos.
